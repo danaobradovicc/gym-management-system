@@ -100,3 +100,20 @@ The server uses port `5555` by default.
 Developed as an academic software engineering project.
 
 The repository demonstrates client-server communication, relational database integration, and structured implementation of business operations.
+
+## Application Screenshots
+
+### Member Management
+Search, view, create, update, and delete gym member records.
+
+![Member Management](screenshots/member-management.png)
+
+### Membership Management
+Manage gym memberships, filter records by trainer, member, and status, and view associated training session details.
+
+![Membership Management](screenshots/membership-management.png)
+
+### Trainer Management
+Search and manage trainer records through the Java Swing desktop interface.
+
+![Trainer Management](screenshots/trainer-management.png)
