@@ -1,0 +1,28 @@
+# Database credentials
+**/db.properties
+
+# NetBeans generated files
+**/build/
+**/dist/
+**/nbproject/private/
+
+# Java compiled files
+*.class
+*.jar
+
+# macOS files
+.DS_Store
+
+# IDE files
+.idea/
+*.iml
+
+# University documentation
+NaslovnaSadrzaj-*.doc
+NaslovnaSadrzaj-*.txt
+
+# Local development files
+.claude/
+
+# Library checksum files
+*.jar.sha1
